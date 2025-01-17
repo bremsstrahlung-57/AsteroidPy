@@ -1,6 +1,5 @@
 import sys
 import pygame
-import random
 from constants import *
 from player import Player
 from shot import Shot
